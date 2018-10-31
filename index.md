@@ -8,9 +8,9 @@
 0613.01, 0581.00, 0593.00, 0595.00, 0587.00, 0585.00 
 ### Map & Photograph
 ![Map](ridgewoodmap2)
-![Photograph](ridgewoodpic)
+![Photograph](ridgewoodpic.jpg)
 ### Neighborhood Demographics
-![Demographics](https://github.com/arv-ind/ridgewood/blob/master/ridgewoodpop.png "Neighborhood Demographics")
+![Demographics](ridgewoodpop.png)
 ##### Population
 69,317
 ##### Population Density
@@ -22,4 +22,4 @@
 ##### To Empire State Building
 6.8 miles
 # Station Usage Statistics
-![Usage](https://github.com/arv-ind/ridgewood/blob/master/halseyst "Halsey St Usage")
+![Usage](halseyst)
