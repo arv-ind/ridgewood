@@ -1,3 +1,4 @@
+[Link](https://github.com/arv-ind/hc6/blob/master/map.geojson)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/arv-ind/ridgewood/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
