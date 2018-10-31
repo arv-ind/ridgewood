@@ -1,4 +1,4 @@
-### Neighborhood Outline
+# Neighborhood Outline
 [Link](https://github.com/arv-ind/hc6/blob/master/map.geojson "Neighborhood Outline")
 
 ## Welcome to GitHub Pages
